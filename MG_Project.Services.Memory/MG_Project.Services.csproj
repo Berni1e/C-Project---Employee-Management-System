@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MG_Project.Abstractions\MG_Project.Abstractions.csproj" />
+    <ProjectReference Include="..\MG_Project.DataAccess.Memory\MG_Project.DataAccess.Memory.csproj" />
+    <ProjectReference Include="..\MG_Project.DataModel\MG_Project.DataModel.csproj" />
+    <ProjectReference Include="..\MG_Project.ServiceAbstractions\MG_Project.ServiceAbstractions.csproj" />
+  </ItemGroup>
+
+</Project>
