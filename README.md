@@ -4,6 +4,9 @@
 An application designed for managing employee HR data. 
 This project was developed for my object-oriented programming (OOP) class. The main goal was to build a scalable solution that clearly separates the user interface from the business logic and the data layer.
 As of now, this is the final version of the program. It includes full functionalities for the console version and the most important functionalities for the MVVM version.
+Also included in the project scope are:
+* The Class Diagram
+* Short description of functionalities made day 1 of creation
 
 ## 🚀 Key Features
 * Full support for **CRUD** operations on employee records (Create, Read, Update, Delete).
